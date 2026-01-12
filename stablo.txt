@@ -1,0 +1,4 @@
+Inorder prije replace:
+14 25 36 48 49 60 68 75 86 
+Inorder nakon replace:
+0 14 264 49 0 165 0 386 0 
